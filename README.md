@@ -1,7 +1,7 @@
 <div align="center">
 
 # About Me:
-I'm a fourth year Computer Science student at the University of Lincoln, as part of a MComp Computer Science course.
+I'm a fourth year Computer Science student at the University of Lincoln, as part of an MComp Computer Science course.
 
 I’m currently learning web development via The Odin Project.
 
